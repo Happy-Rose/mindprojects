@@ -1,3 +1,23 @@
+# 📗 Table of Contents
+
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+- [💻 Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Setup](#setup)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [📝 License](#license)
+
 # "Hello Mindbyte Academy" Project
 
 "Hello Mindbyte Academy" Project is an introductory exercise to get familiar with Git workflow
@@ -51,7 +71,7 @@ You can depoly this project using:
 
 ## Author
 
-* Github: @Happy_Rose
+* Github: [@Happy_Rose](https://github.com/Happy-Rose)
 
 ## Future Feature
 
@@ -60,7 +80,7 @@ You can depoly this project using:
 ## Contributing
 
 Contributions, issuses, and features request are welcome!
-Feel free to check the issues page
+Feel free to check the [issues page](https://github.com/Happy-Rose/mindprojects/issues)
 
 ## Show your support
 
@@ -72,4 +92,4 @@ i would like to thank Mindbyte Academy their guidance and framework for this wor
 
 ## License
 
-This project is MIT Licensed
+This project is [MIT](https://github.com/Happy-Rose/mindprojects/blob/main/LICENSE) Licensed
